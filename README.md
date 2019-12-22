@@ -1,7 +1,3 @@
-# Project03 - Phrase-Hunter
-Team TreeHouse Python Tech Degree - Project 03
-
-
 This game is entirely console/terminal based.
 
 
