@@ -3,4 +3,6 @@
 
 
 Phrase-Hunter is a game similar to Hangman: https://en.wikipedia.org/wiki/Hangman_(game)
-You may enter "quit" as a guess in order to quit the program.
+
+## Commands:
+>You may enter "quit" as a guess in order to quit the program.
