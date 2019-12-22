@@ -1,5 +1,5 @@
 # Project 03: Phrase-Hunter
-###### This game is entirely console/terminal based.
+###### *This game is entirely console/terminal based.*
 
 
 Phrase-Hunter is a game similar to Hangman: https://en.wikipedia.org/wiki/Hangman_(game)
