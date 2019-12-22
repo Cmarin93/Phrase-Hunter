@@ -7,4 +7,6 @@
 Phrase-Hunter is a game similar to Hangman: https://en.wikipedia.org/wiki/Hangman_(game)
 
 ## Information:
+>run App.py thru Python to start the game.
 >You may enter "quit" as a guess in order to quit the program.
+
