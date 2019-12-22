@@ -1,2 +1,9 @@
-# Project03---Phrase-Hunter
-Team TreeHouse Python Tech Degreee
+# Project03 - Phrase-Hunter
+Team TreeHouse Python Tech Degree - Project 03
+
+
+This game is entirely console/terminal based.
+
+
+Phrase-Hunter is a game similar to Hangman: https://en.wikipedia.org/wiki/Hangman_(game)
+You may enter "quit" as a guess in order to quit the program.
