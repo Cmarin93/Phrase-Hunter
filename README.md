@@ -1,4 +1,4 @@
-#![Phrase Hunter](logo.png)
+![Phrase Hunter](logo.png)
 ###### Project 3: *This game is designed to be ran entirely from the console/terminal.*
 ![Preview](SS.png)
 
