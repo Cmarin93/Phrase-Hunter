@@ -1,7 +1,7 @@
 # Project 03: Phrase-Hunter
 ###### *This game is entirely console/terminal based.*
-
-![Phrase Hunter](SS.png)
+![Phrase Hunter](logo.png)
+![Preview](SS.png)
 
 Phrase-Hunter is a genetic Hangman simulator.
 
