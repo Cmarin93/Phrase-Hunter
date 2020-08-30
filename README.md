@@ -1,4 +1,4 @@
-# Project 03: Phrase-Hunter
+# Project 03
 ###### *This game is entirely console/terminal based.*
 ![Phrase Hunter](logo.png)
 ![Preview](SS.png)
