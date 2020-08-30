@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 # Ignore .PYC files
 *.pyc
+=======
+# Ignore all pyc files
+*.pyc
+>>>>>>> 7172462ab2b950b9dedf55657359c4559fb188d4
