@@ -1,7 +1,7 @@
 class Character():
 
     def __init__(self, char):
-        self.original = char.upper()
+        self.letter = char.upper()
         #spaces are automatically 'guessed'.
         if char == ' ':
             self.was_guessed = True
@@ -10,7 +10,7 @@ class Character():
 
     def __str__(self):
         if self.was_guessed:
-            return self.original
+            return self.letter
         else:
             return '_'
 
@@ -18,5 +18,5 @@ class Character():
         return str(self)
 
     def check(self, guess):
-        if guess == self.original:
+        if guess == self.letter:
             self.was_guessed = True
