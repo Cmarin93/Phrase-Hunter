@@ -1,7 +1,6 @@
 ![Phrase Hunter](logo.png)
 ###### Project 3: *This game is designed to be ran entirely from the console/terminal.*
 ![Preview](SS.png)
-![Bottom](http://clipartmag.com/images/light-blue-abstract-background-png-clipart-32.gif)
 
 
 ## Information:
