@@ -9,7 +9,7 @@
 
 Phrase-Hunter is a genetic Hangman simulator with a touch of old-school ASCII graphics.
 
-
+![Bottom](http://clipartmag.com/images/light-blue-abstract-background-png-clipart-32.gif)
 >You may enter "quit" as a guess in order to quit the program.
 
         Created By: Carlos A. Marin - July 2019
