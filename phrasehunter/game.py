@@ -1,5 +1,5 @@
 import os
-import phrasehunter.phrase
+from phrasehunter.phrase import Phrase
 import random
 import re
 
@@ -15,8 +15,10 @@ class Game:
         self.phrases = self.phrase_factory(phrases)
         self.active_phrase = random.choice(self.phrases)
         self.guesses, self.correct_guesses  = [], []
-        self.running, self.lives = True, 5
-        self.art, self.message = art0, None
+        self.running = True
+        self.lives = 5
+        self.art = art0
+        self.message = None
 
     def run(self):
         self.game_start()
@@ -97,11 +99,11 @@ class Game:
     def phrase_factory(self, phrases):
         phrase_list = []
         for phrase in phrases:
-            phrase_list.append(phrasehunter.phrase.Phrase(phrase))
+            phrase_list.append(Phrase(phrase))
         return phrase_list
 
     def heart_factory(self):
-        # hl = [heart for life in range(self.lives)]
+        # hl = [heart for life in range(self.lives)]  # list comprehension (with a conditional)
         # return hl.join()
         heart_lives = ''
         for life in range(self.lives):
