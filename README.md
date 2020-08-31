@@ -5,11 +5,11 @@
 
 
 ## Information:
-Starting with 5 ♥'s you must avoid being eliminated.
+*Starting with 5 ♥'s you must avoid being eliminated.*
 
 Phrase-Hunter is a genetic Hangman simulator with a touch of old-school ASCII graphics.
-var s = "JavaScript syntax highlighting";
-alert(s);
+
+
 >You may enter "quit" as a guess in order to quit the program.
 
         Created By: Carlos A. Marin - July 2019
